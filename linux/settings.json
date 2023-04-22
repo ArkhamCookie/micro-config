@@ -1,0 +1,9 @@
+{
+    "backupdir": "$HOME/.local/state/micro",
+    "ft:json": {
+        "tabsize": 2
+    },
+    "keepautoindent": true,
+    "saveundo": true,
+    "softwrap": true
+}
