@@ -1,0 +1,9 @@
+{
+    "backupdir": "/data/data/com.termux/files/home/.local/state/micro",
+    "ft:json": {
+        "tabsize": 2
+    },
+    "keepautoindent": true,
+    "saveundo": true,
+    "softwrap": true
+}

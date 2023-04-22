@@ -1,0 +1,24 @@
+{
+	"Shift-OldBackspace": "DeleteWordLeft",
+	"Alt-Backspace": "DeleteWordLeft",
+	"Alt-d": "DeleteLine",
+
+	"Tab": "Autocomplete|IndentSelection|IndentLine",
+	"Ctrl-c": "Copy|CopyLine",
+	
+	"Ctrl-g": "JumpLine",
+	"Alt-n": "command-edit:tab ",
+	"Alt-t": "command-edit:tabswitch ",
+	"Alt-,": "PreviousTab",
+	"Alt-.": "NextTab|AddTab",    
+    
+	"Alt-t": "HSplit,command:term",
+	"Ctrl-y": "Redo",
+
+	"Alt-/": "lua:comment.comment",
+	"CtrlUnderscore": "lua:comment.comment",
+    
+	"Alt-q": "QuitAll",
+	"Alt-r": "Save",
+	"Alt-x": "Save,Quit"
+}
