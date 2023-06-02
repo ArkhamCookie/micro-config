@@ -2,6 +2,7 @@
 	"Shift-OldBackspace": "DeleteWordLeft",
 	"Alt-Backspace": "DeleteWordLeft",
 	"Alt-d": "DeleteLine",
+	"Ctrl-k": "DeleteLine",
 
 	"Tab": "Autocomplete|IndentSelection|IndentLine",
 	"Ctrl-c": "Copy|CopyLine",
