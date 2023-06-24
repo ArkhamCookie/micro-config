@@ -1,9 +1,17 @@
 {
     "backupdir": "$HOME/.local/state/micro",
-    "ft:json": {
+    "ft:html": {
         "tabsize": 2
     },
+    "ft:json": {
+    	"tabsize": 2
+    }
+    "ft:yaml": {
+        "tabsize": 2,
+        "tabstospaces": true
+    },
     "keepautoindent": true,
+    "multiopen": "hsplit",
     "saveundo": true,
     "softwrap": true
 }
