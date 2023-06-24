@@ -9,7 +9,7 @@
     "ft:yaml": {
     	"tabsize": 2,
     	"tabstospaces": true
-    }
+    },
     "keepautoindent": true,
     "multiopen": "vsplit",
     "saveundo": true,

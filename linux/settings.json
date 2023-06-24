@@ -5,7 +5,7 @@
     },
     "ft:json": {
     	"tabsize": 2
-    }
+    },
     "ft:yaml": {
         "tabsize": 2,
         "tabstospaces": true
